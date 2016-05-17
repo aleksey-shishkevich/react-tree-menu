@@ -1,0 +1,19 @@
+.selected{
+    background-color: #ccc;
+}
+
+li{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+ul{
+    list-style-type: none; 
+    -webkit-padding-start: 0px;
+    padding-start: 0px;
+    margin: 0;
+    padding: 0;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    position: absolute;
+    width: 200px;
+}
